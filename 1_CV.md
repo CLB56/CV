@@ -11,8 +11,7 @@
 
 ### **Chef de projet industriel**
 
-Ingénieur industriel ayant 10 ans d'expérience dont 7 ans en pilotage de projets dans le secteur automobile. Capable de gérer toutes les phases jusqu'au lancement d'un produit ou d'un process industriel complexe. Très intéressé par l'industrie 4.0 et notamment les applications Big-Data.
-
+Ingénieur industriel ayant 10 ans d'expérience dont 7 ans en pilotage de projets dans le secteur automobile. Capable de gérer toutes les phases jusqu'au lancement d'un produit ou d'un process industriel complexe. Très intéressé par l'industrie 4.0 et la digitalisation de l'industrie en général.
 
 ## EXPÉRIENCES PROFESSIONNELLES
 
@@ -46,7 +45,7 @@ Ingénieur industriel ayant 10 ans d'expérience dont 7 ans en pilotage de proje
 
 2005 - 2008
 : **Apprentissage à  la DCNS (chantier naval militaire), Lorient**
-: - Définition du besoin et mise en place d’un outil PLM (PDM Link) dans le département
+: - Définition du besoin et mise en place d’un outil PLM (PTC Windchill) dans le département électricité
 - Réorganisation du département autour du processus produit
 - Développement de macro-fonctions sur le logiciel AUTOCAD
 
@@ -67,8 +66,8 @@ Logiciels
 : Catia V5, Solid Works, AutoCAD, SAP R/3, MS Project
 
 
-Big Data
-: Python 3, SciPy (Numpy,Pandas...), Scikit, GNU Bash, Jupyter
+Informatique
+: Python 3, SciPy (Numpy, Pandas...), Scikit, GNU Bash, Jupyter
 
 
 Langues
